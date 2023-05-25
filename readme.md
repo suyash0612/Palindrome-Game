@@ -1,7 +1,7 @@
 # Palindrome Game Instructions Set
 
 
-###Use Postman or any similar tool to test the implemented APIs:
+### Use Postman or any similar tool to test the implemented APIs:
 
 
 1.	User creation: Send a POST request to http://localhost:8000/users/ with the user data in the request body.
